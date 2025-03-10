@@ -12,8 +12,8 @@ Pengembang yang berdedikasi dengan ketertarikan mendalam terhadap teknologi baru
 - 🌱 Sedang mempelajari teknologi AI dan Machine Learning
 - 👯 Mencari kesempatan untuk berkolaborasi dengan pengembang yang berdedikasi
 - 💬 Tanyakan kepada saya tentang pengembangan Android, Web, atau teknologi terkini
-- 📫 Hubungi saya melalui: imanudin.elvanhaz@email.com
-- ⚡ Fakta menarik: Saya menulis kode sambil mendengarkan musik instrumental
+- 📫 Hubungi saya melalui: elvanhazi@gmail.com
+- ⚡ Fakta menarik: Saya menulis kode sambil mendengarkan musik
 
 ## Keahlian & Alat 🛠️
 
@@ -23,11 +23,11 @@ Pengembang yang berdedikasi dengan ketertarikan mendalam terhadap teknologi baru
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 </div>
 
 ## Statistik GitHub Saya 📊
