@@ -1,21 +1,21 @@
-# Hi there! 👋 Gue [Nama Lo]
+# Hi there! 👋 Saya Imanudin El Van Haz
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Android+Developer;Web+Developer;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </div>
 
-## About Me ✨
+## Tentang Saya ✨
 
-Passionate developer yang literally suka ngulik teknologi baru dan solving problems. Gue bisa spend hours buat optimizing code dan nungguin build gue selesai compile. Currently lagi fokus di web development dan data science.
+Pengembang yang berdedikasi dengan ketertarikan mendalam terhadap teknologi baru dan pemecahan masalah. Saya dapat menghabiskan berjam-jam untuk mengoptimalkan kode dan mengembangkan solusi yang efisien. Saat ini fokus pada pengembangan aplikasi web dan mobile.
 
-- 🔭 Sekarang gue lagi working on [Project Keren Lo]
-- 🌱 Currently lagi learning [Teknologi Baru]
-- 👯 Looking to collaborate sama developers yang passionate
-- 💬 Ask me about anything, seriously gue suka diskusi tech
-- 📫 How to reach me: [email@domain.com]
-- ⚡ Fun fact: Gue coding sambil dengerin lo-fi beats
+- 🔭 Saat ini saya sedang mengerjakan proyek pengembangan aplikasi mobile
+- 🌱 Sedang mempelajari teknologi AI dan Machine Learning
+- 👯 Mencari kesempatan untuk berkolaborasi dengan pengembang yang berdedikasi
+- 💬 Tanyakan kepada saya tentang pengembangan Android, Web, atau teknologi terkini
+- 📫 Hubungi saya melalui: imanudin.elvanhaz@email.com
+- ⚡ Fakta menarik: Saya menulis kode sambil mendengarkan musik instrumental
 
-## Skills & Tools 🛠️
+## Keahlian & Alat 🛠️
 
 <div align="center">
   
@@ -30,43 +30,43 @@ Passionate developer yang literally suka ngulik teknologi baru dan solving probl
 
 </div>
 
-## My GitHub Stats 📊
+## Statistik GitHub Saya 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imanudinel&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanudinel&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanudinel&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## Projects Gue Yang Paling Gokil 🚀
+## Proyek Unggulan 🚀
 
 <div align="center">
-  <a href="https://github.com/username/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=project1&theme=radical" alt="Project 1" />
+  <a href="https://github.com/imanudinel/android-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imanudinel&repo=android-app&theme=radical" alt="Android Application" />
   </a>
-  <a href="https://github.com/username/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=project2&theme=radical" alt="Project 2" />
+  <a href="https://github.com/imanudinel/web-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imanudinel&repo=web-portfolio&theme=radical" alt="Web Portfolio" />
   </a>
 </div>
 
-## Let's Connect! 🌐
+## Mari Terhubung! 🌐
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/username)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanudinelvanhaz)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imanudinelvanhaz)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://imanudinelvanhaz.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanudin.elvanhaz@email.com)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=username&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=imanudinel&style=flat-square&color=blueviolet" alt="Profile views" />
   <br>
   
-  ### "Code is like humor. When you have to explain it, it's bad." – Cory House
+  ### "Kode yang baik adalah kode yang dapat dipahami oleh manusia, bukan hanya oleh komputer."
   
 </div>
