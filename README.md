@@ -30,35 +30,12 @@ Pengembang yang berdedikasi dengan ketertarikan mendalam terhadap teknologi baru
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
-## Statistik GitHub Saya 📊
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imanudinel&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanudinel&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanudinel&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## Proyek Unggulan 🚀
-
-<div align="center">
-  <a href="https://github.com/imanudinel/android-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imanudinel&repo=android-app&theme=radical" alt="Android Application" />
-  </a>
-  <a href="https://github.com/imanudinel/web-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imanudinel&repo=web-portfolio&theme=radical" alt="Web Portfolio" />
-  </a>
-</div>
-
 ## Mari Terhubung! 🌐
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imanudin-el-van-haz-bb8b0530b/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imanudinelvanhaz)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://imanudinelvanhaz.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://elvanhaz.github.io/portofolio/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvanhazi@gmail.com)
 
 </div>
